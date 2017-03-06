@@ -1,6 +1,6 @@
 {
   "name": "connect-query",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Parse query parameters in Connect or Express",
   "main": "index.js",
   "scripts": {
@@ -29,6 +29,6 @@
     "supertest": "~0.12.1"
   },
   "dependencies": {
-    "qs": "~1.1.0"
+    "qs": "~6.4.0"
   }
 }
